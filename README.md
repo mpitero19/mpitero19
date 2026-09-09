@@ -4,19 +4,19 @@
 
 I’m a Senior Full Stack Developer with **12+ years of professional experience** building SaaS platforms, web applications, mobile apps, eCommerce systems, APIs, and custom business software.
 
-I work across the full product lifecycle — from architecture and development to deployment, optimization, and long-term maintenance. I’m comfortable building products from scratch as well as joining existing codebases and solving complex technical problems.
+I work across the full product lifecycle - from architecture and development to deployment, optimization, and long-term maintenance. I’m comfortable building products from scratch as well as joining existing codebases and solving complex technical problems.
 
 ---
 
 ## 🚀 What I Build
 
-* **SaaS & B2B Platforms** — Multi-tenant applications, dashboards, portals, marketplaces, and internal tools
-* **Web Applications** — React/Next.js applications, business platforms, admin systems, and customer-facing products
-* **Mobile Applications** — Cross-platform iOS & Android apps with React Native and Flutter
-* **Backend & APIs** — REST/GraphQL APIs, integrations, authentication, background jobs, and data synchronization
-* **eCommerce** — Shopify, WooCommerce, custom commerce platforms, subscriptions, and payment integrations
-* **Cloud & DevOps** — AWS, Azure, Docker, CI/CD, Vercel, Nginx, and production deployments
-* **Existing Systems** — Legacy modernization, performance optimization, debugging, maintenance, and feature development
+* **SaaS & B2B Platforms**: Multi-tenant applications, dashboards, portals, marketplaces, and internal tools
+* **Web Applications**: React/Next.js applications, business platforms, admin systems, and customer-facing products
+* **Mobile Applications**: Cross-platform iOS & Android apps with React Native and Flutter
+* **Backend & APIs**: REST/GraphQL APIs, integrations, authentication, background jobs, and data synchronization
+* **eCommerce**: Shopify, WooCommerce, custom commerce platforms, subscriptions, and payment integrations
+* **Cloud & DevOps**: AWS, Azure, Docker, CI/CD, Vercel, Nginx, and production deployments
+* **Existing Systems**: Legacy modernization, performance optimization, debugging, maintenance, and feature development
 
 ---
 
