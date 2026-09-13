@@ -1,6 +1,6 @@
 # Hi, I'm a Senior Full Stack Developer 👋
 
-### Senior Full Stack Engineer | SaaS • Web • Mobile • APIs
+### Senior Full Stack Engineer | SaaS • Web • Mobile • APIs • .Net
 
 I’m a Senior Full Stack Developer with **12+ years of professional experience** building SaaS platforms, web applications, mobile apps, eCommerce systems, APIs, and custom business software.
 
