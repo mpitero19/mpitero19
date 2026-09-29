@@ -2,7 +2,7 @@
 
 ### Senior Full Stack Engineer | SaaS • Web • Mobile • APIs • .Net
 
-I’m a Senior Full Stack Developer with **12+ years of professional experience** building SaaS platforms, web applications, mobile apps, eCommerce systems, APIs, and custom business software.
+I’m a Senior Full Stack Developer with **20+ years of professional experience** building SaaS platforms, web applications, mobile apps, APIs, and custom business software.
 
 I work across the full product lifecycle - from architecture and development to deployment, optimization, and long-term maintenance. I’m comfortable building products from scratch as well as joining existing codebases and solving complex technical problems.
 
@@ -45,65 +45,6 @@ I work across the full product lifecycle - from architecture and development to 
 ### APIs & Integrations
 
 `REST` `GraphQL` `OAuth` `Webhooks` `Stripe` `PayPal`
-
-### CMS & eCommerce
-
-`WordPress` `WooCommerce` `Shopify`
-
----
-
-## 💡 Areas of Expertise
-
-### Full Stack & SaaS Development
-
-I build scalable applications with authentication, RBAC, subscriptions, billing, dashboards, reporting, notifications, file management, background processing, and third-party integrations.
-
-### API & Backend Engineering
-
-I design reliable backend services and APIs with a focus on scalability, security, performance, error handling, synchronization, and maintainability.
-
-### Mobile Development
-
-I develop production-ready iOS and Android applications with authentication, payments, push notifications, real-time functionality, deep linking, offline capabilities, and API integrations.
-
-### Performance & Production Engineering
-
-I enjoy solving difficult production problems — slow queries, API failures, webhook issues, authentication bugs, deployment problems, synchronization errors, and performance bottlenecks.
-
----
-
-## 🏗️ Engineering Approach
-
-I believe good software engineering is about more than choosing the latest technology.
-
-My approach focuses on:
-
-* Clean and maintainable architecture
-* Practical technology decisions
-* Scalable database design
-* Secure authentication and authorization
-* Reliable API integrations
-* Performance and production stability
-* Automated testing and CI/CD
-* Clear communication and documentation
-* Building solutions that are easy to maintain
-
-I’m particularly comfortable working on products where **business requirements, technical constraints, and delivery timelines** all need to be balanced.
-
----
-
-## 🔍 Currently Interested In
-
-* SaaS product development
-* Full stack web applications
-* AI-powered applications
-* API & backend engineering
-* Mobile application development
-* eCommerce platforms
-* Cloud architecture
-* Automation & integrations
-* Performance optimization
-* Long-term product development
 
 ---
 
