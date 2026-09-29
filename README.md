@@ -14,7 +14,6 @@ I work across the full product lifecycle - from architecture and development to 
 * **Web Applications**: React/Next.js applications, business platforms, admin systems, and customer-facing products
 * **Mobile Applications**: Cross-platform iOS & Android apps with React Native and Flutter
 * **Backend & APIs**: REST/GraphQL APIs, integrations, authentication, background jobs, and data synchronization
-* **eCommerce**: Shopify, WooCommerce, custom commerce platforms, subscriptions, and payment integrations
 * **Cloud & DevOps**: AWS, Azure, Docker, CI/CD, Vercel, Nginx, and production deployments
 * **Existing Systems**: Legacy modernization, performance optimization, debugging, maintenance, and feature development
 
@@ -29,6 +28,9 @@ I work across the full product lifecycle - from architecture and development to 
 ### Backend
 
 `Node.js` `Express.js` `Python` `FastAPI` `Django` `PHP` `Laravel` `.NET`
+
+### AI & Machine Learning
+`OpenAI API` `Anthropic API` `Large Language Models (LLMs)` `RAG` `AI Workflow` `Automation` `LangChain` `API Integration`
 
 ### Mobile
 
